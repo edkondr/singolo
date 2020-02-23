@@ -1,0 +1,137 @@
+
+*{
+   margin: 0;
+   padding: 0;
+}
+header{
+    background: #2D303A;
+    color: #FFFFFF;
+    width: 1020px;
+    height: 98px;
+    font-family: 'Lato' ;
+    padding: 0px 0px;
+}
+header h1{
+    position: absolute;
+    width: 155.41px;
+    height: 20px;
+    left: 41px;
+    top: 35px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24.2902px;
+    line-height: 6px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    
+
+}
+.colortext{
+     color: #f06c64; /* Красный цвет выделения */
+   }
+
+nav{
+    
+   float: right;
+   }
+nav li{
+    font-size: 11.6593px;
+    float: right;
+    margin: 48px 40px 5px 20px;
+    list-style-type: none;
+}
+nav li a{
+    color:#FFFFFF; 
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    
+   }
+nav li a:hover{
+    color: #f06c64;
+}
+
+
+slider{
+    position: absolute;
+    width: 1020px;
+    height: 666px;
+    float: left;
+    background-color: #f06c64;
+    
+}
+
+.horizontal{
+    position: absolute;
+    width: 580px;
+    height: 580px;
+    left: 361px;
+    top: 86px;
+}
+.vertical{
+    position: absolute;
+    width: 582px;
+    height: 580px;
+    left: 111px;
+    top: 0px;
+}
+
+slider li{
+    position: absolute;
+    width: 580px;
+    height: 580px;
+    left: 161px;
+    top: 86px;
+    list-style-type: none;
+}
+
+services{
+    display: flex;
+    align-items: center;
+    margin: 667px 0px 0px 0px;    
+    background-color: #f2f2f2;    
+    position: absolute;
+    width: 1020px;
+    height: 1097px;
+    
+}
+
+
+services h1{
+    
+position: absolute;
+width: 286.99px;
+height: 23px;
+left: 42px;
+top: 67px;
+font-family: Lato;
+font-style: normal;
+font-weight: 900;
+font-size: 29.6188px;
+line-height: 18px;
+display: flex;
+align-items: center;
+color: #666D89;
+
+    
+}
+
+services p{
+    
+position: absolute;
+width: 969px;
+height: 47px;
+left: 42px;
+top: 124px;
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+display: flex;
+align-items: center;
+color: #767E9E;
+
+}
