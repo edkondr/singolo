@@ -88,50 +88,89 @@ slider li{
 }
 
 services{
+    
     display: flex;
     align-items: center;
     margin: 667px 0px 0px 0px;    
     background-color: #f2f2f2;    
     position: absolute;
     width: 1020px;
-    height: 1097px;
+    height: 500px;
     
 }
 
 
 services h1{
     
-position: absolute;
-width: 286.99px;
-height: 23px;
-left: 42px;
-top: 67px;
-font-family: Lato;
-font-style: normal;
-font-weight: 900;
-font-size: 29.6188px;
-line-height: 18px;
-display: flex;
-align-items: center;
-color: #666D89;
+  position: absolute;
+  width: 286.99px;
+  height: 23px;
+  left: 42px;
+  top: 67px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 29.6188px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #666D89;
 
     
 }
 
 services p{
     
-position: absolute;
-width: 969px;
-height: 47px;
-left: 42px;
-top: 124px;
-font-family: Lato;
-font-style: normal;
-font-weight: 300;
-font-size: 18px;
-line-height: 30px;
-display: flex;
-align-items: center;
-color: #767E9E;
+    position: absolute;
+    width: 969px;
+    height: 47px;
+    left: 42px;
+    top: 124px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    color: #767E9E;
 
 }
+
+.cards{
+    
+  color: #767E9E;  
+  min-height: 100vh
+  display: flex;
+  flex-wrap: wrap
+  width: 300px;
+}
+
+.card {
+    
+    display: flex;
+    color: #767E9E;  
+    margin: 100px 90px 5px 40px;
+    
+}
+services li{
+    list-style-type: none;
+}
+
+.card1{
+    
+    
+    display: flex;
+    color: #767E9E;  
+    margin: 590px 20px 190px -1070px;
+
+}
+.st{
+  margin: 300px 10px;  
+}
+
+
+.st1{
+    margin: 210px 10px 10px 800px;
+}
+
