@@ -1,0 +1,272 @@
+
+*{
+   margin: 0;
+   padding: 0;
+}
+
+Artboard{
+  font-family: 'Lato', sans-serif;  
+  position: absolute;
+  width: 1020px;
+  height: 651px;
+  left: 0px;
+  top: 0px;
+  background: #F06C64;  
+}
+
+Artboard h1{
+  position: absolute;
+  width: 277.99px;
+  height: 26px;
+  left: 41px;
+  top: 69.55px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 29.6188px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #F0D8D9;
+}
+
+Artboard p{
+  position: absolute;
+  width: 969px;
+  height: 47px;
+  left: 40px;
+  top: 123px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  color: #F0D8D9;
+  
+}
+
+Artboard h3{
+    
+  position: absolute;
+  width: 280.99px;
+  height: 14px;
+  left: 1px;
+  top: 0.02px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 17.7713px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #F0D8D9;
+
+}
+
+.Contact{
+    
+  position: absolute;
+  width: 301px;
+  height: 194px;
+  left: 679px;
+  top: 223px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #F0D8D9;
+  
+}
+.Contact p{
+    
+  position: absolute;
+  width: 331px;
+  height: 162px;
+  left: 0px;
+  top: -10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #F0D8D9;   
+}
+.locimg{
+    
+  position: absolute;
+  width: 7px;
+  height: 11px;
+  left: 4px;
+  top: 137px;
+  
+}
+
+.Elm{
+    
+  position: absolute;
+  width: 130px;
+  height: 11px;
+  left: 25px;
+  top: 135px;
+
+}
+.phoneimg{
+    
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  left: 2px;
+  top: 155px; 
+}
+
+.phone{
+    
+  position: absolute;
+  width: 130px;
+  height: 14px;
+  left: 25px;
+  top: 155px;  
+}
+.mailimg{
+    
+  position: absolute;
+  width: 13px;
+  height: 8px;
+  left: 1px;
+  top: 178px;  
+    
+}
+.mail{
+  position: absolute;
+  width: 13px;
+  height: 8px;
+  left: 25px;
+  top: 178px;    
+}
+.line{
+  position: absolute; 
+  left: 0px;
+  top: 648px;  
+  width: 1020px;
+  height: 8px;
+  background: #EA676B;  
+}
+footer{
+    
+  position: absolute;
+  width: 1020px;
+  height: 79px;
+  left: 0px;
+  top: 0px;
+  background: #2D303A;
+  margin: 656px 0px  
+}
+.Copyright{
+    
+  position: absolute;
+  width: 92px;
+  height: 11px;
+  left: 42px;
+  top: 33px;
+  background: rgba(0, 0, 0, 0.0001);
+}
+
+.facebook{
+    
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 828px;
+  top: 23px;  
+    
+}
+.google{
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 868px;
+  top: 23px;   
+}
+
+.twit{
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 908px;
+  top: 23px;
+
+}
+
+.in{
+    
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 948px;
+  top: 23px;
+  
+}
+#name{
+  position: absolute;
+  width: 623px;
+  height: 41px;
+  left: 39px;
+  top: 217px;
+  background: #D6564F;
+  color: #F48C8F; 
+  border-color:#D6564F ;
+  border-radius: 7px;
+    
+}
+#Email{
+  position: absolute;
+  width: 623px;
+  height: 41px;
+  left: 39px;
+  top: 271px;
+  background: #D6564F; 
+  color: #F48C8F; 
+  border-color:#D6564F ;
+  border-radius: 7px;
+}
+
+#Subject{
+  position: absolute;
+  width: 623px;
+  height: 42px;
+  left: 39px;
+  top: 324px;
+  background: #D6564F; 
+  color: #F48C8F; 
+  border-color:#D6564F ;
+  border-radius: 7px;
+}
+#Describe{
+  position: absolute;
+  width: 623px;
+  height: 205px;
+  left: 39px;
+  top: 379px;
+  background: #D6564F;
+  color: #F48C8F; 
+  border-color:#D6564F ;
+  border-radius: 7px;
+}
+#submit{
+  position: absolute;
+  width: 120px;
+  height: 42px;
+  left: 39px;
+  top: 600px;
+  background: #F0D8D9;
+  color: #2D303A; 
+  border-color:#D6564F ;
+  border-radius: 7px;
+}
